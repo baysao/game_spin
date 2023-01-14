@@ -1,0 +1,252 @@
+[
+  {
+    "country": "Afghanistan",
+    "continent": "Asia",
+    "code": "AF"
+  },
+  {
+    "country": "Armenia",
+    "continent": "Asia",
+    "code": "AM"
+  },
+  {
+    "country": "Azerbaijan",
+    "continent": "Asia",
+    "code": "AZ"
+  },
+  {
+    "country": "Bahrain",
+    "continent": "Asia",
+    "code": "BH"
+  },
+  {
+    "country": "Bangladesh",
+    "continent": "Asia",
+    "code": "BD"
+  },
+  {
+    "country": "Bhutan",
+    "continent": "Asia",
+    "code": "BT"
+  },
+  {
+    "country": "Brunei",
+    "continent": "Asia",
+    "code": "BN"
+  },
+  {
+    "country": "Cambodia",
+    "continent": "Asia",
+    "code": "KH"
+  },
+  {
+    "country": "China",
+    "continent": "Asia",
+    "code": "CN"
+  },
+  {
+    "country": "Cyprus",
+    "continent": "Asia",
+    "code": "CY"
+  },
+  {
+    "country": "East Timor",
+    "continent": "Asia",
+    "code": "TP"
+  },
+  {
+    "country": "Georgia",
+    "continent": "Asia",
+    "code": "GE"
+  },
+  {
+    "country": "Hong Kong",
+    "continent": "Asia",
+    "code": "HK"
+  },
+  {
+    "country": "India",
+    "continent": "Asia",
+    "code": "IN"
+  },
+  {
+    "country": "Indonesia",
+    "continent": "Asia",
+    "code": "ID"
+  },
+  {
+    "country": "Iran",
+    "continent": "Asia",
+    "code": "IR"
+  },
+  {
+    "country": "Iraq",
+    "continent": "Asia",
+    "code": "IQ"
+  },
+  {
+    "country": "Israel",
+    "continent": "Asia",
+    "code": "IL"
+  },
+  {
+    "country": "Japan",
+    "continent": "Asia",
+    "code": "JP"
+  },
+  {
+    "country": "Jordan",
+    "continent": "Asia",
+    "code": "JO"
+  },
+  {
+    "country": "Kazakhstan",
+    "continent": "Asia",
+    "code": "KZ"
+  },
+  {
+    "country": "Kuwait",
+    "continent": "Asia",
+    "code": "KW"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "continent": "Asia",
+    "code": "KG"
+  },
+  {
+    "country": "Laos",
+    "continent": "Asia",
+    "code": "LA"
+  },
+  {
+    "country": "Lebanon",
+    "continent": "Asia",
+    "code": "LB"
+  },
+  {
+    "country": "Macao",
+    "continent": "Asia",
+    "code": "MO"
+  },
+  {
+    "country": "Malaysia",
+    "continent": "Asia",
+    "code": "MY"
+  },
+  {
+    "country": "Maldives",
+    "continent": "Asia",
+    "code": "MV"
+  },
+  {
+    "country": "Mongolia",
+    "continent": "Asia",
+    "code": "MN"
+  },
+  {
+    "country": "Myanmar",
+    "continent": "Asia",
+    "code": "MM"
+  },
+  {
+    "country": "Nepal",
+    "continent": "Asia",
+    "code": "NP"
+  },
+  {
+    "country": "North Korea",
+    "continent": "Asia",
+    "code": "KP"
+  },
+  {
+    "country": "Oman",
+    "continent": "Asia",
+    "code": "OM"
+  },
+  {
+    "country": "Pakistan",
+    "continent": "Asia",
+    "code": "PK"
+  },
+  {
+    "country": "Palestine",
+    "continent": "Asia",
+    "code": "PS"
+  },
+  {
+    "country": "Philippines",
+    "continent": "Asia",
+    "code": "PH"
+  },
+  {
+    "country": "Qatar",
+    "continent": "Asia",
+    "code": "QA"
+  },
+  {
+    "country": "Saudi Arabia",
+    "continent": "Asia",
+    "code": "SA"
+  },
+  {
+    "country": "Singapore",
+    "continent": "Asia",
+    "code": "SG"
+  },
+  {
+    "country": "South Korea",
+    "continent": "Asia",
+    "code": "KR"
+  },
+  {
+    "country": "Sri Lanka",
+    "continent": "Asia",
+    "code": "LK"
+  },
+  {
+    "country": "Syria",
+    "continent": "Asia",
+    "code": "SY"
+  },
+  {
+    "country": "Tajikistan",
+    "continent": "Asia",
+    "code": "TJ"
+  },
+  {
+    "country": "Thailand",
+    "continent": "Asia",
+    "code": "TH"
+  },
+  {
+    "country": "Turkey",
+    "continent": "Asia",
+    "code": "TR"
+  },
+  {
+    "country": "Turkmenistan",
+    "continent": "Asia",
+    "code": "TM"
+  },
+  {
+    "country": "United Arab Emirates",
+    "continent": "Asia",
+    "code": "AE"
+  },
+  {
+    "country": "Uzbekistan",
+    "continent": "Asia",
+    "code": "UZ"
+  },
+  {
+    "country": "Vietnam",
+    "continent": "Asia",
+    "code": "VN"
+  },
+  {
+    "country": "Yemen",
+    "continent": "Asia",
+    "code": "YE"
+  }
+]

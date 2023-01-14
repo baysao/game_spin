@@ -1,0 +1,6 @@
+define([], function(){
+    var _layout = {}
+    return {
+	$ui: _layout
+    }
+})
