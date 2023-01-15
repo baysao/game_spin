@@ -87,13 +87,16 @@ function Crud:list(args)
     for _, _id in ipairs(_list) do
         local _key = _key_list .. ":" .. _id
         local _ret = _ssdb:hscan(_key, "", "", _limit)
+	-- cc.printerror(inspect(_ret))
         if _ret and type(_ret) == "table" and _ret[1] ~= "ok" then
-            cc.printerror(inspect(_ret))
-            local _detail = _ssdb:array_to_hash(_ret)
-            cc.printerror(inspect(_detail))
+            -- cc.printerror(inspect(_ret))
+	   local _detail = _ssdb:array_to_hash(_ret)
+
+            -- cc.printerror(inspect(_detail))
             _result[#_result + 1] = _detail
         end
     end
+
     return _result
 end
 

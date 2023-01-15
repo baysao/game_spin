@@ -133,3 +133,11 @@
 .flex_tmp .select {
     height: 2em;
 }
+
+.mytoolbar img{
+    background: red;
+}
+
+.showroom_login legend {
+    font-size: 2em;
+}
