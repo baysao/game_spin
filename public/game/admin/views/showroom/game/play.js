@@ -90,7 +90,7 @@ define(["app", "model/showroom","model/customer"], function ($app, $model_showro
     cols: [_form, { width: 1 }, _game],
   };
     function _set_game(id, d, p) {
-      var _url = "/api/game/v1?action=game.html" +
+      var _url = location.origin + "/api/game/v1?action=game.html" +
 	  "&showroom=" + showroom_id +
 	  "&user_id=" + user_id +
 	  "&d=" + d +
