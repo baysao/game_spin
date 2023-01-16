@@ -47,20 +47,20 @@ define([
           css: "webix_primary",
         },
 
-        {
-          view: "button",
-          autowidth: true,
-          id: "game_play",
-          label: "Open Game",
-          css: "webix_primary",
-          click: function () {
-            window.open(
-		"/api/game/v1?action=game.html" +
-		    "&user_id=" + $$("game_uid").getValue() + 
-		    "&id=" + $$("game_id").getValue()
-            );
-          },
-        },
+        // {
+        //   view: "button",
+        //   autowidth: true,
+        //   id: "game_play",
+        //   label: "Open Game",
+        //   css: "webix_primary",
+        //   click: function () {
+        //     window.open(
+	// 	"/api/game/v1?action=game.html" +
+	// 	    "&user_id=" + $$("game_uid").getValue() + 
+	// 	    "&id=" + $$("game_id").getValue()
+        //     );
+        //   },
+        // },
 
         {},
         {
