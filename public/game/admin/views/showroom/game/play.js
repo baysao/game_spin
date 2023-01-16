@@ -1,8 +1,8 @@
 define(["app", "model/showroom","model/customer"], function ($app, $model_showroom, $model_customer) {
   var scope, showroom_id, user_id;
   var _games = {
-    1: { id: "f5345a14-37fa-4fea-8e60-954090985200" },
-    2: { id: "db0a20c9-7af1-44b0-ab3c-896352151d8f" },
+    1: { id: "a6da4f4c-2794-418d-bb32-07876a035f42" },
+    2: { id: "97da48cf-44cb-4e27-be4a-2244e6193d60" },
   };
   var _elements = [
     {
