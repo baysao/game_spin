@@ -77,19 +77,19 @@ define(["app", "model/customer"], function ($app, $model_customer) {
           label: "Save",
           css: "webix_primary",
         },
-        {
-          view: "button",
-          autowidth: true,
-          id: "customer_editor_play",
-          label: "Customer Game",
-          css: "webix_primary",
-          click: function () {
-            window.open(
-              "/game/admin/#!/customer.game.login:user_id=" +
-                $$("user_id").getValue()
-            );
-          },
-        },
+        // {
+        //   view: "button",
+        //   autowidth: true,
+        //   id: "customer_editor_play",
+        //   label: "Customer Game",
+        //   css: "webix_primary",
+        //   click: function () {
+        //     window.open(
+        //       "/game/admin/#!/customer.game.login:user_id=" +
+        //         $$("user_id").getValue()
+        //     );
+        //   },
+        // },
         {},
         {
           view: "button",
