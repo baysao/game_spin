@@ -172,9 +172,9 @@ _opensession = function(instance, args)
         --cc.throw("session is expired, or invalid session id")
         return nil
     end
-    if session then
-        session:setKeepAlive()
-    end
+    -- if session then
+    --     session:setKeepAlive()
+    -- end
 
     return session
 end
