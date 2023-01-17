@@ -1,5 +1,5 @@
 local _config = {
-    appIndex = 9,
+    appIndex = 1,
     numOfJobWorkers = 0
 }
 return _config
